@@ -9,12 +9,11 @@
 },
   "keywords": ["KittenBot", "MiloTilo"],
   "author": "MiloTilo",
-  "license": "EPL"
-},
+  "license": "EPL",
   "dependencies": {
    "bancho.js": "^0.11.0"
 },
   "devDependencies": {
     "eslint": "^8.8.0"
   }
-
+}
