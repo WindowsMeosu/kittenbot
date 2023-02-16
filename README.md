@@ -3,3 +3,5 @@
 ![image](https://user-images.githubusercontent.com/104236864/210912438-ae6613bd-e4c8-4613-b9c6-2b3bd4854710.png)
 
 above is the result if src/index.js (also the main example for Bancho.js) is ran ^^
+
+Templates planned to released next week!
