@@ -1,6 +1,6 @@
 {
   "name": "kittenbot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "KittenBot for libera.chat is private and for personal use only, this is for osu!-purposes.",
   "reposority": "github:windowsmeosu/KittenBot",
   "main": "index.js",
